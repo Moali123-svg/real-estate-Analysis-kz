@@ -11,3 +11,5 @@ It also helps to compare prices in different cities or in different districts in
 1. The districts with the most expensive and cheapest housing on average?
 2. The most expensive/cheapest apartments for each type of apartment.
 3. The largest/smallest apartments for each type of apartment.
+
+### Results: [a relative link](Project/ Results.pdf)
